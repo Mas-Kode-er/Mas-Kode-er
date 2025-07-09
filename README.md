@@ -17,7 +17,6 @@
 <a href="https://leetcode.com/u/O4E8XQyUya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="O4E8XQyUya" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/user_gexaeia9vpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_gexaeia9vpa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/var.un.pandey.bly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="var.un.pandey.bly" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/brill_olive_88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="brill_olive_88" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
